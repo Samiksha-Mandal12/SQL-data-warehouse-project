@@ -1,6 +1,3 @@
-# 🏭 **SQL-data-warehouse-project**
-> A guided implementation of a modern SQL Data Warehouse following the Medallion Architecture (Bronze, Silver, Gold) using Microsoft SQL Server.
-
 # 🏗️ SQL Data Warehouse Project
 
 > A guided implementation of a modern SQL Data Warehouse following the Medallion Architecture (Bronze, Silver, Gold) using Microsoft SQL Server.
