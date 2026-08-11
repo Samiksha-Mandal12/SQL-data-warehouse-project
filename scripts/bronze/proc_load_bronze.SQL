@@ -6,7 +6,7 @@ Stored procedure: Load Bronze Layer (source -> Bronze)
   > ETL
   > Bulk inserting the csv file into bronze customer info table as it is faster.
   > Focus on the column header as the csv file has 1st row as header and not the data itself.
-  > The data starts with row number 2 and thus sepcified.
+  > The data starts with row number 2 and thus specified.
   > Also check the type of delimitter used so as to mention in the WITH clause.
   > Tablock ,locks the entire table during loading it.
   > Use truncate before loading as incase of error ,the file might get loaded twice leading to duplicates. So always empty the table before loading.
