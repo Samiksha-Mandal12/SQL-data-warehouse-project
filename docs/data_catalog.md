@@ -9,7 +9,7 @@ tables** and **fact tables** for specific business metrics.
 
 ---
 
-1. gold.dim_customers
+**1. gold.dim_customers**
    
   - **Purpose:** Stores customer details enriched with demographics and geographic data.
   - **Columns:**
